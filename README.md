@@ -5,4 +5,5 @@ Smithing a sword is a paramount task. You must prepare your materials, design yo
 In Rust-55 you will not learn how to smith a sword, but to code in a beautiful, low-level programming language... **Rust!** It is the perfect tool to build robust, efficient and safe applications; and of course, with enough consistency, you might become the blacksmith to build the next big thing!
 
 Cheers!
+
 coding-cluster :)
